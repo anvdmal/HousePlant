@@ -10,3 +10,23 @@
 - добавление новых растений через специализированную форму с валидацией полей ввода;
 - фиксирование даты последнего полива;
 - изменение статуса растения на "Увядшее" или "Живое" с помощью кнопок управления, размещённых в каждой карточке.
+
+## Демонстрация
+* Интерфейс приложения
+  
+ ![image](https://github.com/user-attachments/assets/c8372dd4-f606-44e6-bf11-6224474fbac8)
+
+* Валидация полей ввода
+  
+  ![image](https://github.com/user-attachments/assets/a01d6d13-7405-478c-980e-3f56d15cd485)
+  ![image](https://github.com/user-attachments/assets/adb6f433-fb98-4839-a994-925f1839beb9)
+
+* Адаптивность
+  1. Устройства с шириной экрана менее 900px
+     
+  ![image](https://github.com/user-attachments/assets/ea02accd-851f-4ef7-adce-aee5f5596ded)
+
+  2.  Устройства с шириной экрана менее 500px
+     
+  ![image](https://github.com/user-attachments/assets/a394f33b-bfed-4b5c-9104-9b17f520f017)
+  ![image](https://github.com/user-attachments/assets/4524a47a-7beb-4563-8857-85cffdec1396)
