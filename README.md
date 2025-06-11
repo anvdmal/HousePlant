@@ -22,6 +22,7 @@
   ![image](https://github.com/user-attachments/assets/adb6f433-fb98-4839-a994-925f1839beb9)
 
 * Адаптивность
+  
   Устройства с шириной экрана менее 900px
      
   ![image](https://github.com/user-attachments/assets/ea02accd-851f-4ef7-adce-aee5f5596ded)
